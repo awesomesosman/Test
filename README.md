@@ -35,3 +35,6 @@ Lastly, feedback on the lack of clarity regarding labels and titles was taken in
 
 ## Resources
 
+###### http://techslides.com/over-1000-d3-js-examples-and-demos
+###### http://stackoverflow.com/questions/25416063/title-for-charts-and-axes-in-dimple-js-charts
+###### http://dimplejs.org/advanced_examples_viewer.html?id=advanced_custom_styling
