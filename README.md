@@ -12,9 +12,16 @@ Right-handed players also seem to have consistently lower batting and home run a
 ## Design
 
 My initial mockups investigated how the two performance indicators varied according to height and weight respectively, in separate charts.
-After receiving some feedback, I decided to do away with the weight chart, as it did not provide additional insight over the height chart.
+
+###### Initial Design: 
+![Initial Visualisation](/Initial Visualisation.png)
+
+After receiving some feedback (see Feedback section below), I decided to do away with the weight chart, as it did not provide additional insight over the height chart.
 Additionally, I decided to plot handedness using different colours, in order to see if any other interesting insights could be found from that.
 Lastly, feedback on the lack of clarity regarding labels and titles was taken into consideration in creating the final design.
+
+###### Post Feedback Design: 
+![Final Visualisation](/Final Visualisation.png)
 
 ## Feedback
 
@@ -23,6 +30,8 @@ Lastly, feedback on the lack of clarity regarding labels and titles was taken in
 ###### 2: "There seems to be a downward trend in batting average as both height and weight increase. May want to investigate height more... seems like there's more complexity there."
 
 ###### 3: "At first, the x-axis seemed like it displayed home runs. Also, it seems surprising that batting average decreases with size. Are there any other factors that might affect performance?"
+
+
 
 ## Resources
 
