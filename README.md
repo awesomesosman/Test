@@ -11,7 +11,7 @@ Right-handed players also seem to have consistently lower batting and home run a
 
 ## Design
 
-My initial mockups investigated how the two performance indicators varied according to height and weight respectively, in separate bubble charts. During exploratory data analysis, I also experimented using multiple lines to denote batting average and home runs for each chart. However, I felt this confusing and thus did not seek feedback on them, instead, only seeking feedback on the bubble charts.
+My initial mockups investigated how the two performance indicators varied according to height and weight respectively, in separate bubble charts, created in excel for easy sketching. During exploratory data analysis, I also experimented using multiple lines to denote batting average and home runs for each chart. However, I felt this confusing and thus did not seek feedback on them, instead, only seeking feedback on the bubble charts.
 
 ###### Initial Design: 
 ![Initial Visualisation](/Initial Visualisation.png)
