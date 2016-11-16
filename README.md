@@ -11,13 +11,13 @@ Right-handed players also seem to have consistently lower batting and home run a
 
 ## Design
 
-My initial mockups investigated how the two performance indicators varied according to height and weight respectively, in separate charts.
+My initial mockups investigated how the two performance indicators varied according to height and weight respectively, in separate bubble charts. During exploratory data analysis, I also experimented using multiple lines to denote batting average and home runs for each chart. However, I felt this confusing and thus did not seek feedback on them, instead, only seeking feedback on the bubble charts.
 
 ###### Initial Design: 
 ![Initial Visualisation](/Initial Visualisation.png)
 
 After receiving some feedback (see Feedback section below), I decided to do away with the weight chart, as it did not provide additional insight over the height chart.
-Additionally, I decided to plot handedness using different colours, in order to see if any other interesting insights could be found from that.
+Additionally, I decided to plot handedness using different colours, in order to see if any other interesting insights could be found from that. The blue, yellow and green color scheme was chosen as green, a mixture of the other two colors, adequately represents both.
 Lastly, feedback on the lack of clarity regarding labels and titles was taken into consideration in creating the final design.
 
 ###### Post Feedback Design: 
