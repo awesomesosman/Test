@@ -21,7 +21,11 @@ Additionally, I decided to plot handedness using different colours, in order to 
 Lastly, feedback on the lack of clarity regarding labels and titles was taken into consideration in creating the final design.
 
 ###### Post Feedback Design: 
-![Final Visualisation](/Final Visualisation.png)
+![First Submitted Visualisation](/First Submitted Visualisation.png)
+
+###### Post Submission Design:
+
+![Revised Visualisation](/Revised Visualisation.png)
 
 ## Feedback
 
